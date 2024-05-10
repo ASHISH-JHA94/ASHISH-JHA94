@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
 <h3 align="center">A passionate Frontend and Backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-jha94&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-jha94" /> </p>
 
