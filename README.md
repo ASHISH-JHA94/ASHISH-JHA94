@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
-<h3 align="center">A passionate Frontend and Backend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
  <img  alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
